@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T06:06:42.505299+00:00",
+  "generated_at": "2026-10-26T12:51:42.721456+00:00",
   "proxy_count": 500,
   "sources": [
     {
@@ -13,8 +13,8 @@
       "name": "Au1rxx/free-vpn-subscriptions",
       "url": "https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/clash.yaml",
       "ok": true,
-      "received": 1684,
-      "added": 533
+      "received": 1689,
+      "added": 540
     },
     {
       "name": "awesome-vpn/awesome-vpn",
@@ -35,14 +35,14 @@
       "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml",
       "ok": true,
       "received": 508,
-      "added": 400
+      "added": 394
     },
     {
       "name": "anaer/Sub",
       "url": "https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml",
       "ok": true,
-      "received": 1518,
-      "added": 1386
+      "received": 2153,
+      "added": 2121
     },
     {
       "name": "ermaozi01/free_clash_vpn",
@@ -55,22 +55,22 @@
       "name": "peasoft/NoMoreWalls",
       "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.yml",
       "ok": true,
-      "received": 126,
-      "added": 2
+      "received": 117,
+      "added": 17
     },
     {
       "name": "NiceVPN123/NiceVPN",
       "url": "https://raw.githubusercontent.com/NiceVPN123/NiceVPN/main/Clash.yaml",
       "ok": true,
       "received": 3646,
-      "added": 3142
+      "added": 3129
     },
     {
       "name": "chengaopan/AutoMergePublicNodes",
       "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml",
       "ok": true,
       "received": 126,
-      "added": 5
+      "added": 3
     }
   ]
 }
